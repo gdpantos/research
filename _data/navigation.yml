@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /files/GDP.bib
+    url: /files/publications.html
 
   - title: "Group"
     url: /talks/    
