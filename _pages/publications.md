@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
 
 ## 2026
 - [94. “Second-Harmonic Hyper-Mie Optical Activity Enables Closed-Loop Chiral Photochemistry” H. Choi, K. Whisnant, B. J. Olohan, E. Petronijevic, G. D. Pantoş, N. A. Kotov, V. K. Valev, Adv. Mater. 2026 , e735935](https://doi.org/10.1002/adma.73593)
