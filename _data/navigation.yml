@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /files/Publications.html
+    url: /publications/
 
   - title: "Group"
     url: /files/Group.html   
