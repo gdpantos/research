@@ -12,7 +12,7 @@ main:
     url: /publications/
 
   - title: "Group"
-    url: /files/Group.html   
+    url: /group/  
 
   - title: "Research"
     url: /teaching/    
