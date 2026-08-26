@@ -19,7 +19,7 @@ PhD student working on helicenes and chiral supramolecular films.
 ## Spency Oliveira
 MRes student working on small-molecule G-quadruplex interactions.
 
-# [Alumni Directory](alumni.yml)
+# [Alumni Directory](research/_pages/alumni.yml)
 
 - "Alexandra Rudolph (2026 - Exchange
           student, now: -)"
