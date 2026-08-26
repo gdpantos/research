@@ -7,14 +7,14 @@ author_profile: true
 
 
 ## 2026
-94\. “Second-Harmonic Hyper-Mie Optical Activity Enables Closed-Loop Chiral Photochemistry” H. Choi, K. Whisnant, B. J. Olohan, E. Petronijevic, G. D. Pantoş, N. A. Kotov, V. K. Valev, [Adv. Mater. 2026, e735935](https://doi.org/10.1002/adma.73593)
-93\. “Synthesis of N-Acetyl-D- and -L-Leucine- 13 C 6 Tool Compounds in Neurodegenerative Disease” D. Crepin, A. McGown, D. Shepherd, R. Braine, M. Sharma, J. Nafie, J. G. Ribeiro, G. D. Pantoş, G. Churchill, F. M. Platt, J. Spencer, [ChemMedChem 2026, 21, e70295](https://doi.org/10.1002/cmdc.70295)
-92\. “Second-harmonic chiroptical scattering spectroscopy from plasmonic nanohelices” B. J. Olohan, H. Choi, H. Kwon, R. Ji, B. Kerrigan, O. R. J. Nedderman, G. D. Pantoş, P. Fischer, V. V. Valev, [Opt. Express 2026, 34, 144662](https://doi.org/10.1364/OE.582687)
+94\. “Second-Harmonic Hyper-Mie Optical Activity Enables Closed-Loop Chiral Photochemistry” H. Choi, K. Whisnant, B. J. Olohan, E. Petronijevic, G. D. Pantoş, N. A. Kotov, V. K. Valev, [Adv. Mater. 2026, e735935](https://doi.org/10.1002/adma.73593). 
+93\. “Synthesis of N-Acetyl-D- and -L-Leucine- 13 C 6 Tool Compounds in Neurodegenerative Disease” D. Crepin, A. McGown, D. Shepherd, R. Braine, M. Sharma, J. Nafie, J. G. Ribeiro, G. D. Pantoş, G. Churchill, F. M. Platt, J. Spencer, [ChemMedChem 2026, 21, e70295](https://doi.org/10.1002/cmdc.70295). 
+92\. “Second-harmonic chiroptical scattering spectroscopy from plasmonic nanohelices” B. J. Olohan, H. Choi, H. Kwon, R. Ji, B. Kerrigan, O. R. J. Nedderman, G. D. Pantoş, P. Fischer, V. V. Valev, [Opt. Express 2026, 34, 144662](https://doi.org/10.1364/OE.582687). 
 
 ## 2025
-91\. “Functional D- and L-Naphthalenediimide-Peptides: Microwave-Driven Synthesis, Supramolecular Aggregation, and Multiphoton Fluorescence Lifetime Imaging Microscopy in Living Cells” S. G. Giuffrida, D. G. Calatayud, F. Cortezon-Tamarit, H. Ge, V. Mirabello, D.-M. Răsădean, C. Pourzand, S. W. Botchway, P. Estrela, G. D. Pantoş, I. M. Eggleston, S. I. Pascu, [ACS Bio Med Chem Au 2025, 5, 947](https://doi.org/10.1021/acsbiomedchemau.5c00064)
-90\. “Synthesis and resolution of a 1,1′-biazulene analogue of BINOL” A. P. Gee, T.-M. Gianga, G. Kociok-Köhn, G. D. Pantoș, S. E. Lewis, [RSC Adv. 2025, 15, 14881](https://doi.org/10.1039/D5RA02520F)
-89\. “Enantiopure synthesis of [5]helicene based molecular lemniscates and their use in chiroptical materials” L. E. M. White, T.-M. Gianga, F. Pradaux-Caggiano, C. Faverio, A. Taddeucci, H. S. Rzepa, C. Jonhannesen, L. E. Hatcher, G. Siligardi, D. R. Carbery, G. D. Pantoș, [Nat. Commun. 2025, 16, 2837](https://doi.org/10.1038/s41467-025-58162-1)
+91\. “Functional D- and L-Naphthalenediimide-Peptides: Microwave-Driven Synthesis, Supramolecular Aggregation, and Multiphoton Fluorescence Lifetime Imaging Microscopy in Living Cells” S. G. Giuffrida, D. G. Calatayud, F. Cortezon-Tamarit, H. Ge, V. Mirabello, D.-M. Răsădean, C. Pourzand, S. W. Botchway, P. Estrela, G. D. Pantoş, I. M. Eggleston, S. I. Pascu, [ACS Bio Med Chem Au 2025, 5, 947](https://doi.org/10.1021/acsbiomedchemau.5c00064). 
+90\. “Synthesis and resolution of a 1,1′-biazulene analogue of BINOL” A. P. Gee, T.-M. Gianga, G. Kociok-Köhn, G. D. Pantoș, S. E. Lewis, [RSC Adv. 2025, 15, 14881](https://doi.org/10.1039/D5RA02520F). 
+89\. “Enantiopure synthesis of [5]helicene based molecular lemniscates and their use in chiroptical materials” L. E. M. White, T.-M. Gianga, F. Pradaux-Caggiano, C. Faverio, A. Taddeucci, H. S. Rzepa, C. Jonhannesen, L. E. Hatcher, G. Siligardi, D. R. Carbery, G. D. Pantoș, [Nat. Commun. 2025, 16, 2837](https://doi.org/10.1038/s41467-025-58162-1). 
 
 ## 2024
 - 88. “Chirality conferral enables the observation of hyper-Raman optical activity” R. R. Jones, J. F. Kerr, H. Kwon, S. R. Clowes, R. Ji, E. Petronijevic, L. Zhang, G. D. Pantoș, B. Smith, T. Batten, P. Fischer, D. Wolverson, D. L. Andrews, V. K. Valev, [Nat. Photon. 2024, 18, 982-989](https://doi.org/10.1038/s41566-024-01486-z)
