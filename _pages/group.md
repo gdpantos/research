@@ -23,10 +23,13 @@ MRes student working on small-molecule G-quadruplex interactions.
 <div style="height: 150px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 - Alexandra Rudolph (2026 - Exchange
           student, now: -)
+
 - Alessia Vallance (2026 - MSci student,
           now: -)
+
 - Sam Wilding-Rush (2026 - MChem student,
           now: -)
+
 - Youwei Yu (2025 - MRes student, now: -)
 - Luling Wu (2025 - PDRA, now: -)
 - Sam Clowes (2025 - PhD student, now: -)
