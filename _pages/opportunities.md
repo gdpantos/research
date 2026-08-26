@@ -7,7 +7,7 @@ author_profile: true
 
 # Come Join Our Team!
 
-We are always interested in recruiting dedicated and talented scientists. If you are interested in working with us, please contact the group directly.
+We are always interested in recruiting dedicated and talented scientists. If you are interested in working with us, please contact the [Dan](mailto:g.d.pantos_at_bath.ac.uk?subject=postdoc-web) directly.
 
 ## Postdoctoral Positions
 
@@ -66,4 +66,4 @@ We welcome visiting students and scientists interested in experiencing our resea
 
 ---
 
-*Last modified: 25 February 2020*
+*Last modified: 26 August 2026*
