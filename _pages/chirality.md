@@ -5,7 +5,7 @@ permalink: /chirality/
 author_profile: false
 ---
 
-# Chirality @ Bath Chemistry
+
 
 ## Overview
 
@@ -32,7 +32,7 @@ The facility contains two spectrometers capable of measuring chirality in soluti
 
 ## Applied Photophysics Chirascan
 
-![Applied Photophysics Chirascan](/images/chirality/Chirascanforweb.jpg)
+![Applied Photophysics Chirascan](/research/images/chirality/Chirascanforweb.jpg)
 
 ### Specifications
 
@@ -60,7 +60,7 @@ The facility contains two spectrometers capable of measuring chirality in soluti
 
 ### Circularly Polarised Luminescence (CPL) Accessory
 
-![Chirascan CPL Accessory](/images/chirality/cplforweb.png)
+![Chirascan CPL Accessory](/research/images/chirality/cplforweb.png)
 
 - Software-controlled dedicated SEM
 - Spectral range: 205 nm to 800 nm
@@ -72,7 +72,7 @@ The facility contains two spectrometers capable of measuring chirality in soluti
 
 ## Jasco J-810
 
-![Jasco J-810 Spectropolarimeter](/images/chirality/JascoJ810forweb.jpg)
+![Jasco J-810 Spectropolarimeter](/research/images/chirality/JascoJ810forweb.jpg)
 
 ### Specifications
 
@@ -100,7 +100,7 @@ The facility contains two spectrometers capable of measuring chirality in soluti
 
 ## Jasco CD-2095 Plus HPLC CD Detector
 
-![Jasco CD-2095 HPLC Detector](/images/chirality/CD2095forweb.jpg)
+![Jasco CD-2095 HPLC Detector](/research/images/chirality/CD2095forweb.jpg)
 
 This dedicated HPLC circular dichroism detector allows simultaneous CD and absorbance detection at a single variable wavelength.
 
@@ -122,7 +122,7 @@ This dedicated HPLC circular dichroism detector allows simultaneous CD and absor
 
 ## Jasco OR-1590 Optical Rotation Detector
 
-![Jasco OR-1590 HPLC Detector](/images/chirality/orforweb.jpg)
+![Jasco OR-1590 HPLC Detector](/research/images/chirality/orforweb.jpg)
 
 A dedicated chiral HPLC detector operating over an extended wavelength range.
 
