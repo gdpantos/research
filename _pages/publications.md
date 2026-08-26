@@ -218,8 +218,8 @@ author_profile: true
 1\. “The gas-chromatographic behavior of the phosphoric acid n-alkyl esters on silicon stationary phases. Reactions on columns“ P. Soimu, G. Ilia, G. Dehelean, S. Iliescu, L. Macarie, G. D. Pantoș, [Phosphorus, Sulfur and Silicon, 1999, 147, 127](http://dx.doi.org/10.1080/10426509908053544)  
 
 # Book Chapters
-- 2. "Supramolecular naphthalenediimide nanotubes" N. Ponnuswamy, A. R. Stefankiewicz, J. K. M. Sanders, G. D. Pantoş, Top. Curr. Chem., 2012, 322, 217 - 260
-- 1. "Supramolecular chemistry of environmentally relevant anions" B. A. Moyer, L. H. Delmau, C. J. Fowler, A. Ruas, D. A. Bostick, J. L. Sessler, E. Katayev, G. D. Pantos, J. M. Llinares, A. Hossain, S. O. Kang, K. Bowman-James, Advances in Inorganic Chemistry, 2006, 59, 175 - 204
+- "Supramolecular naphthalenediimide nanotubes" N. Ponnuswamy, A. R. Stefankiewicz, J. K. M. Sanders, G. D. Pantoş, Top. Curr. Chem., 2012, 322, 217 - 260
+- "Supramolecular chemistry of environmentally relevant anions" B. A. Moyer, L. H. Delmau, C. J. Fowler, A. Ruas, D. A. Bostick, J. L. Sessler, E. Katayev, G. D. Pantos, J. M. Llinares, A. Hossain, S. O. Kang, K. Bowman-James, Advances in Inorganic Chemistry, 2006, 59, 175 - 204
 
 # Conference & Invited Talks
 - Romanian Academy - Institute of Chemistry - Timișoara, Timișoara, Romania, Feb. 2025
