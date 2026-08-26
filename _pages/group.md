@@ -11,7 +11,7 @@ author_profile: true
 **Principal Investigator**
 
 ## Ollie Nedderman
-<img src="images/ollie.png" alt="Ollie Nedderman" width="300" />
+<img src="https://gdpantos.github.io/images/ollie.png" alt="Ollie Nedderman" width="200" />
 PhD student researching chirality transfer to nanoparticles and emissive polymer films.
 
 ## João Ribeiro
