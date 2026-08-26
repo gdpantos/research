@@ -12,7 +12,7 @@ layout: single
 - Jasco J-810 x2
 - CPL accessory for Chirascan
 
-For details, see the Chirality @ Bath page.
+For details, see the [Chirality](/chirality/) page.
 
 ### Software
 We have developed Python-based software for controlling:
@@ -34,7 +34,7 @@ We have developed Python-based software for controlling:
 - Jasco OR-1590
 - Knauer RI 2300
 - Sedex 55 ELSD
-- Jasco Fluorescence Detectors
+- Jasco Fluorescence Detectors (FP-920 & FP-2020)
 
 Additional facilities:
 - Semiprep setup
@@ -48,16 +48,16 @@ Additional facilities:
 - LCQ Classic ESI MS and MSn
 
 **The Agilent**
-- Agilent 1100 with VWD
-- FluoroMonitor 4100 fluorescence detector
-- Agilent 6110 Single Quad MS (ESI and APCI)
+- Agilent 1100 with DAD
+- Jasco FP-920 & OR-1590 detectors
+- Agilent 6120 Single Quad MS (ESI and APCI)
 
 ### Flash Chromatography
 - 2 × Isco/Teledyne Combiflash Companion systems
 
 ### Microwave Reactors
 - CEM Discover-S with Explorer 12 Hybrid
-- Discover with Voyager Stop-Flow add-on
+- Discover
 
 ### Vapour Pressure Osmometer
 - Wescor Vapro 5500XR
@@ -68,6 +68,6 @@ Additional facilities:
 
 
 ## Access
-If you would like to use one of these instruments and are, or plan to be, in Bath, please get in touch.
+If you would like to use one of these instruments and are, or plan to be, in Bath, please get in [touch](mailto:g.d.pantos_at_bath.ac.uk?subject=instruments_web).
 
 *Last modified: 26 Aug 2026*
