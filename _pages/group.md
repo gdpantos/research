@@ -11,9 +11,11 @@ author_profile: true
 **Principal Investigator**
 
 ## Ollie Nedderman
+<img src="files/ollie.png" alt="Ollie Nedderman" width="300" />
 PhD student researching chirality transfer to nanoparticles and emissive polymer films.
 
 ## João Ribeiro
+<img src="files/joao.png" alt="Ollie Nedderman" width="300" />
 PhD student working on helicenes and chiral supramolecular films.
 
 ## Spency Oliveira
