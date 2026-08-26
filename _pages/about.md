@@ -14,12 +14,12 @@ You can find us at:
 
 1 South, 1.54a (Office), 0.55/0.51 (Lab)
 
-Department of Chemistry
-University of Bath
-Claverton Down
-Bath
-BA2 7AY
-United Kingdom
+Department of Chemistry  
+University of Bath  
+Claverton Down  
+Bath  
+BA2 7AY  
+United Kingdom  
 
 tel: +44 (0) 1225 384376
 
