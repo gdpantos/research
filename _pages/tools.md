@@ -12,7 +12,7 @@ layout: single
 - Jasco J-810 x2
 - CPL accessory for Chirascan
 
-For details, see the [Chirality](/chirality/) page.
+For details, see the [Chirality](/research/chirality/) page.
 
 ### Software
 We have developed Python-based software for controlling:
