@@ -20,7 +20,7 @@ PhD student working on helicenes and chiral supramolecular films.
 MRes student working on small-molecule G-quadruplex interactions.
 
 # [Alumni Directory](https://gdpantos.github.io/research/_pages/alumni.yml)
-
+<div style="height: 150px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 - "Alexandra Rudolph (2026 - Exchange
           student, now: -)"
 - "Alessia Vallance (2026 - MSci student,
@@ -223,3 +223,4 @@ MRes student working on small-molecule G-quadruplex interactions.
           Summer Student, now: researcher @ Tata Steel)"
 - "Tessa Peach (2007 - Corporate
           Associates Summer Student, now: at Pfizer UK, Sandwich site)"
+</div>
