@@ -1,11 +1,9 @@
 ---
-title: "Useful tools and toys"
+title: "Useful tools and "toys""
 permalink: /tools/
 author_profile: true
 layout: single
 ---
-
-# Useful tools and “toys”
 
 ## Our Instruments
 
