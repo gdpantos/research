@@ -20,8 +20,8 @@ main:
   - title: "Tools"
     url: /tools/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Chirality"
+    url: /chirality/
     
   - title: "GDP"
     url: /cv/
