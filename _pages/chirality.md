@@ -120,9 +120,9 @@ This dedicated HPLC circular dichroism detector allows simultaneous CD and absor
 
 ---
 
-## Jasco OR-1090 Optical Rotation Detector
+## Jasco OR-1590 Optical Rotation Detector
 
-![Jasco OR-1090 HPLC Detector](/images/chirality/orforweb.jpg)
+![Jasco OR-1590 HPLC Detector](/images/chirality/orforweb.jpg)
 
 A dedicated chiral HPLC detector operating over an extended wavelength range.
 
