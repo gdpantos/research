@@ -19,10 +19,10 @@ Circularly Polarised Luminescence (**CPL**) allows the study of the excited stat
 
 ## Useful References
 
-- Analysis of the kinetics of folding of proteins and peptides using circular dichroism (Nature Protocols)
-- Using circular dichroism spectra to estimate protein secondary structure (Nature Protocols)
-- Determination of the folding of proteins as a function of denaturants, osmolytes or ligands using circular dichroism (Nature Protocols)
-- Using circular dichroism collected as a function of temperature to determine the thermodynamics of protein unfolding and binding interactions (Nature Protocols)
+- Analysis of the kinetics of folding of proteins and peptides using circular dichroism [Nature Protocols](http://dx.doi.org/10.1038/nprot.2006.244)
+- Using circular dichroism spectra to estimate protein secondary structure [Nature Protocols](http://dx.doi.org/10.1038/nprot.2006.202)
+- Determination of the folding of proteins as a function of denaturants, osmolytes or ligands using circular dichroism [Nature Protocols](http://dx.doi.org/10.1038/nprot.2006.229)
+- Using circular dichroism collected as a function of temperature to determine the thermodynamics of protein unfolding and binding interactions [Nature Protocols](http://dx.doi.org/10.1038/nprot.2006.204)
 
 ## Facilities
 
@@ -100,7 +100,7 @@ The facility contains two spectrometers capable of measuring chirality in soluti
 
 ## Jasco CD-2095 Plus HPLC CD Detector
 
-![Jasco CD-2095 HPLC Detector](/images/chirality/cd2095forweb.jpg)
+![Jasco CD-2095 HPLC Detector](/images/chirality/CD2095forweb.jpg)
 
 This dedicated HPLC circular dichroism detector allows simultaneous CD and absorbance detection at a single variable wavelength.
 
