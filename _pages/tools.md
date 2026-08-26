@@ -11,7 +11,7 @@ layout: single
 
 ### Circular Dichroism Spectropolarimeters
 - Chirascan
-- Jasco J-810
+- Jasco J-810 x2
 - CPL accessory for Chirascan
 
 For details, see the Chirality @ Bath page.
@@ -19,10 +19,9 @@ For details, see the Chirality @ Bath page.
 ### Software
 We have developed Python-based software for controlling:
 - Dionex AXP
-- SSI LS
-- SSI MX
-- SSI LCP
+- SSI LS, MX, LCP
 - CEM Voyager v1 metering pumps
+- Jasco CD-2095, FLD
 
 ### HPC
 - Cisco C220 M4: 2 × 12-core Xeon E5-2650 V4, 442 GB RAM, NVMe storage, Clear Linux
@@ -69,13 +68,8 @@ Additional facilities:
 - MCS-ITC “orgo” for organic solvents
 - MCS-ITC “aqua” for aqueous work
 
-## Group Responsibilities
-- Dan: LCMS
-- Dan/Sam: Combiflash, microwave reactors, and rotovaps
-- Dan: HPLCs and ITCs
-- Dora: CDs, VPO, pH meter
 
 ## Access
 If you would like to use one of these instruments and are, or plan to be, in Bath, please get in touch.
 
-*Last modified: 14 September 2023*
+*Last modified: 26 Aug 2026*
