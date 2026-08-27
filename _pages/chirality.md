@@ -11,7 +11,7 @@ author_profile: false
 
 Circular Dichroism (**CD**) spectroscopy allows the determination of chirality in solution or solid state. A chiral molecule absorbs preferentially either right- or left-handed circularly polarised light, with the difference giving rise to the CD spectrum. This technique is extensively used to study protein and DNA folding, supramolecular interactions, and the behaviour of chiral molecules under a wide range of conditions.
 
-Optical Rotatory Dispersion (**ORD**) spectroscopy measures the difference in the rotation of linearly polarised light caused by differences in the refractive index of circularly polarised light. ORD measures the variation in optical rotation with wavelength and can be used to determine the absolute configuration of metal complexes and other chiral species. In the literature **ORD** is also called Circular Birefringence (**CB**)
+Optical Rotatory Dispersion (**ORD**) spectroscopy measures the difference in the rotation of linearly polarised light caused by differences in the refractive index of circularly polarised light. ORD measures the variation in optical rotation with wavelength and can be used to determine the absolute configuration of metal complexes and other chiral species. In the literature **ORD** is also called Circular Birefringence (**CB**); it can be derived from **CD** *via* Kramers-Kronig transform method. 
 
 Linear Dichroism (**LD**) spectroscopy measures the difference between the absorption of polarised light travelling parallel and perpendicular to an orientation axis. It is mainly used for studying macromolecules with ordering in solution or the solid state.
 
@@ -142,6 +142,5 @@ A dedicated chiral HPLC detector operating over an extended wavelength range.
 
 For access to instrumentation, experimental support, or collaborative projects involving CD, ORD, LD, CPL, or chiral HPLC detection, contact [GDP](mailto:g.d.pantos_at_bath.ac.uk?subject=chirality_web).
 
-## Source
-
-Converted from the legacy *Chirality @ Bath Chemistry* website. Last modified: **26 August 2026**.
+---
+Last modified: **26 August 2026**.
