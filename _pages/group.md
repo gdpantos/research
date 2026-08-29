@@ -9,7 +9,7 @@ author_profile: true
 
 ## Dr G. Dan Pantoș
 <img src="gdp.png" alt="G. Dan Pantoș" width="150" /><br>
-[**Principal Investigator**](/cv/)
+[**Principal Investigator**](/research/cv/)
 
 ## Ollie Nedderman
 <img src="ollie.png" alt="Ollie Nedderman" width="150" /><br>
