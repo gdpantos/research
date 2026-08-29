@@ -9,14 +9,8 @@ author_profile: true
 
 Our main interest lies in **supramolecular chemistry**. We are trying to understand **how** and **why** molecules interact with each other, and **what rules** govern self-assembly in nature. By answering these questions, we aim to produce organic materials with new properties that may ultimately lead to applications that improve everyday life.
 
-We regularly use microwave-assisted synthesis, HPLC, 1D and 2D NMR techniques, mass spectrometry, isothermal calorimetry, UV-vis spectroscopy, and circular dichroism (CD) spectroscopy.
+We regularly use microwave-assisted synthesis, HPLC, 1D and 2D NMR techniques, mass spectrometry, isothermal calorimetry, UV-vis, IR Fluorescence spectroscopies, as well as circular dichroism spectroscopy (CD) and circular polarised luminescence (CPL) to investigate chirality.
 
-### Research Environment
-
-We are part of the:
-
-- Centre for Sustainable and Circular Technologies (CSCT)
-- Graphene and related materials research collaborations
 
 ## Organic Materials
 
