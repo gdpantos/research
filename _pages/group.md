@@ -8,7 +8,8 @@ author_profile: true
 # Current Group Members
 
 ## Dr G. Dan Pantoș
-**Principal Investigator**
+<img src="gdp.png" alt="G. Dan Pantoș" width="150" /><br>
+[**Principal Investigator**](/cv/)
 
 ## Ollie Nedderman
 <img src="ollie.png" alt="Ollie Nedderman" width="150" /><br>
