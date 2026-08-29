@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## 2026
+96\. “Guaiazulene-Based 2-Hydrazinylpyridine Probe (GAHP550) for Ultralow, Reversible Cu2+ Detection and Molecular Logic Gate Applications” M. Kaplan, G. Kociok-Köhn, G. Dan Pantoş, Simon E. Lewis, Tony D. James, [ACS Omega 2026, asap](https://doi.org/10.1021/acsomega.6c05174)  
+
+95\. “Hyper-Rayleigh optical activity in backward scattering” H. Choi, R. Ji, G. Dan Pantoş, and Ventsislav K. Valev, [Opt. Mater. Express 2026, 16, 2989-2998](https://doi.org/10.1364/OME.599370)  
+
 94\. “Second-Harmonic Hyper-Mie Optical Activity Enables Closed-Loop Chiral Photochemistry” H. Choi, K. Whisnant, B. J. Olohan, E. Petronijevic, G. D. Pantoş, N. A. Kotov, V. K. Valev, [Adv. Mater. 2026, e735935](https://doi.org/10.1002/adma.73593)  
 
 93\. “Synthesis of N-Acetyl-D- and -L-Leucine- 13 C 6 Tool Compounds in Neurodegenerative Disease” D. Crepin, A. McGown, D. Shepherd, R. Braine, M. Sharma, J. Nafie, J. G. Ribeiro, G. D. Pantoş, G. Churchill, F. M. Platt, J. Spencer, [ChemMedChem 2026, 21, e70295](https://doi.org/10.1002/cmdc.70295)  
