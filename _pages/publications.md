@@ -13,7 +13,7 @@ author_profile: true
 
 94\. “Second-Harmonic Hyper-Mie Optical Activity Enables Closed-Loop Chiral Photochemistry” H. Choi, K. Whisnant, B. J. Olohan, E. Petronijevic, G. D. Pantoş, N. A. Kotov, V. K. Valev, [Adv. Mater. 2026, e735935](https://doi.org/10.1002/adma.73593)  
 
-93\. “Synthesis of N-Acetyl-D- and -L-Leucine-<sup>13</sup>C<sub>6<sub> Tool Compounds in Neurodegenerative Disease” D. Crepin, A. McGown, D. Shepherd, R. Braine, M. Sharma, J. Nafie, J. G. Ribeiro, G. D. Pantoş, G. Churchill, F. M. Platt, J. Spencer, [ChemMedChem 2026, 21, e70295](https://doi.org/10.1002/cmdc.70295)  
+93\. “Synthesis of N-Acetyl-D- and -L-Leucine-<sup>13</sup>C<sub>6</sub> Tool Compounds in Neurodegenerative Disease” D. Crepin, A. McGown, D. Shepherd, R. Braine, M. Sharma, J. Nafie, J. G. Ribeiro, G. D. Pantoş, G. Churchill, F. M. Platt, J. Spencer, [ChemMedChem 2026, 21, e70295](https://doi.org/10.1002/cmdc.70295)  
 
 92\. “Second-harmonic chiroptical scattering spectroscopy from plasmonic nanohelices” B. J. Olohan, H. Choi, H. Kwon, R. Ji, B. Kerrigan, O. R. J. Nedderman, G. D. Pantoş, P. Fischer, V. V. Valev, [Opt. Express 2026, 34, 144662](https://doi.org/10.1364/OE.582687)  
 
