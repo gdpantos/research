@@ -13,7 +13,7 @@ author_profile: true
 
 94\. “Second-Harmonic Hyper-Mie Optical Activity Enables Closed-Loop Chiral Photochemistry” H. Choi, K. Whisnant, B. J. Olohan, E. Petronijevic, G. D. Pantoş, N. A. Kotov, V. K. Valev, [Adv. Mater. 2026, e735935](https://doi.org/10.1002/adma.73593)  
 
-93\. “Synthesis of N-Acetyl-D- and -L-Leucine- 13 C 6 Tool Compounds in Neurodegenerative Disease” D. Crepin, A. McGown, D. Shepherd, R. Braine, M. Sharma, J. Nafie, J. G. Ribeiro, G. D. Pantoş, G. Churchill, F. M. Platt, J. Spencer, [ChemMedChem 2026, 21, e70295](https://doi.org/10.1002/cmdc.70295)  
+93\. “Synthesis of N-Acetyl-D- and -L-Leucine- ^13^C~6~ Tool Compounds in Neurodegenerative Disease” D. Crepin, A. McGown, D. Shepherd, R. Braine, M. Sharma, J. Nafie, J. G. Ribeiro, G. D. Pantoş, G. Churchill, F. M. Platt, J. Spencer, [ChemMedChem 2026, 21, e70295](https://doi.org/10.1002/cmdc.70295)  
 
 92\. “Second-harmonic chiroptical scattering spectroscopy from plasmonic nanohelices” B. J. Olohan, H. Choi, H. Kwon, R. Ji, B. Kerrigan, O. R. J. Nedderman, G. D. Pantoş, P. Fischer, V. V. Valev, [Opt. Express 2026, 34, 144662](https://doi.org/10.1364/OE.582687)  
 
@@ -90,6 +90,7 @@ author_profile: true
 
 ## 2016
 60\. “Thermally reduced graphene oxide nanohybrids of chiral functional naphthalenediimides for prostate cancer cells bioimaging” J. A. Tyson, V. Mirabello, D. G. Calatayud, H. Ge, G. Kociok-Köhn, S. W. Botchway, G. D. Pantoş, S. I. Pascu, [Adv. Funct. Mater. 2016, 26, 5641 - 5657](http://dx.doi.org/10.1002/adfm.201601123)  
+
 59\. “Thermally stable recyclable naphthalenediimide–siloxane polymers” G. M. Prentice, L. M. Emmett, H. Zhu, G. Kociok-Köhn, G. D. Pantoş, [Supramolecular Chem. 2016, 28, 161 - 167](http://dx.doi.org/10.1080/10610278.2015.1117085)  
 
 ## 2015
@@ -137,7 +138,7 @@ author_profile: true
 ## 2011
 39\. “Supramolecular chemistry of monochiral naphthalenediimides” T. W. Anderson, G. D. Pantoş, J. K. M. Sanders, [Org. Biomol. Chem. 2011, 9, 7547 – 7553](http://dx.doi.org/10.1039/c1ob06147j)
 
-38\. “Proton-driven switching between receptors for C 60 and C 70 ” A. R. Stefankiewcz, E. Tamanini, G. D. Pantoş, J. K. M. Sanders, [Angew. Chem., Int. Ed. 2011, 50, 5725 – 5728](http://dx.doi.org/10.1002/anie.201100806)  
+38\. “Proton-driven switching between receptors for C~60~ and C~70~” A. R. Stefankiewcz, E. Tamanini, G. D. Pantoş, J. K. M. Sanders, [Angew. Chem., Int. Ed. 2011, 50, 5725 – 5728](http://dx.doi.org/10.1002/anie.201100806)  
 
 37\. “Microwave-assisted synthesis of naphthalenemonoimides and N-desymmetrized naphthalenediimides” K. Tambara, N. Ponnuswamy, G. Hennrich, G. D. Pantoş, [J. Org. Chem. 2011, 76, 3338 - 3347](http://dx.doi.org/10.1021/jo200177s)  
 
@@ -145,7 +146,7 @@ author_profile: true
 
 35\. “A fully self-assembled non-symmetric triad for photoinduced charge separation” E. Iengo, G. D. Pantoş, J. K. M. Sanders, M. Orlandi, C. Chiorboli, S. Fracasso, F. Scandola, [Chem. Sci. 2011, 2, 676 - 685](http://dx.doi.org/10.1039/C0SC00520G)  
 
-34\. “A remarkably flexible and selective receptor for Ba2+ amplified from a hydrazone dynamic combinatorial library” J. M. Klein, V. Saggiomo, L. Reck, M. McPartlin, G. D. Pantoş, U. Lüning, [J. K. M. Sanders, Chem. Commun. 2011, 3371 - 3373 (Hot Article, Cover)](http://dx.doi.org/10.1039/c0cc04863a)  
+34\. “A remarkably flexible and selective receptor for Ba^2+^ amplified from a hydrazone dynamic combinatorial library” J. M. Klein, V. Saggiomo, L. Reck, M. McPartlin, G. D. Pantoş, U. Lüning, [J. K. M. Sanders, Chem. Commun. 2011, 3371 - 3373 (Hot Article, Cover)](http://dx.doi.org/10.1039/c0cc04863a)  
 
 33\. “Exploring the formation pathways of donor-acceptor catenanes in aqueous dynamic combinatorial libraries” F. B. L. Cougnon, H. Y. Au-Yeung, G. D. Pantoş, J. K. M. Sanders, [J. Am. Chem. Soc. 2011, 133, 3198 - 3207](http://dx.doi.org/10.1021/ja111407m)  
 
@@ -176,14 +177,15 @@ author_profile: true
 21\. “Controlled-Folding of Small Molecules Modulates G-Quadruplex Recognition” S. Müller, G. D. Pantoş, R. Rodriguez, S. Balasubramanian, [Chem. Commun. 2009, 80 – 82](http://dx.doi.org/10.1039/b816861j)  
 
 ## 2008
-20\. “Templated amplification of an unexpected receptor for C 70 ” J.-L. Wietor, G. D. Pantoş, J. K. M. Sanders, [Angew. Chem., Int. Ed. 2008, 47, 2689 – 2692](http://dx.doi.org/10.1002/ange.200704983)  
+20\. “Templated amplification of an unexpected receptor for C~70~” J.-L. Wietor, G. D. Pantoş, J. K. M. Sanders, [Angew. Chem., Int. Ed. 2008, 47, 2689 – 2692](http://dx.doi.org/10.1002/ange.200704983)  
 
 ## 2007
 19\. “Ligand-driven G-quadruplex conformational switching using threading and stacking modes of interaction” R. Rodriguez, G. D. Pantoş, D. P. N. Gonçalves, J. K. M. Sanders, S. Balasubramanian, [Angew. Chem., Int. Ed. 2007, 46, 5405 – 5407](http://dx.doi.org/10.1002/anie.200605075)  
 
-18\. “Filling helical nanotubes with C 60 ” G. D. Pantoş, J.-L. Wietor, J. K. M. Sanders, [Angew. Chem., Int. Ed. 2007, 46, 2238 – 2240 (Hot Article, highlighted in Chemistry and Industry)](http://dx.doi.org/10.1002/anie.200604891)  
+18\. “Filling helical nanotubes with C~60~” G. D. Pantoş, J.-L. Wietor, J. K. M. Sanders, [Angew. Chem., Int. Ed. 2007, 46, 2238 – 2240 (Hot Article, highlighted in Chemistry and Industry)](http://dx.doi.org/10.1002/anie.200604891)  
 
 17\. “Acyclic pyrrole-based anion receptors: Design, synthesis, and anion binding properties” J. L. Sessler, N. M. Barkey, G. D. Pantos, V. M. Lynch, [New J. Chem. 2007, 31, 646 – 654 (Cover)](http://dx.doi.org/10.1039/b615673h)  
+
 16\. “Hydrogen-bonded helical organic nanotubes” G. D. Pantoş, P. Pengo, J. K. M. Sanders, [Angew. Chem., Int. Ed. 2007, 46, 194 - 197 (Hot Article, Communications Cover, Highlighted in Chemistry World and Chemical & Engineering News)](http://dx.doi.org/10.1002/anie.200603348)  
 
 ## 2006
@@ -191,7 +193,7 @@ author_profile: true
 
 14\. “2-Amino-3,4-diethylpyrrole: a new building block for coiled structures” G. D. Pantoş, M. S. Rodríguez-Morgade, T. Torres, V. M. Lynch, J. L. Sessler, [Chem. Commun. 2006, 2132 – 2134](http://dx.doi.org/10.1039/b602956f)  
 
-13\. “Synthesis and anion binding properties of N,N’-bis -pyrrol-2-yl-2,5-diamidopyrrole” J. L. Sessler, G. D. Pantoş, P. A. Gale, M. E. Light, [Org. Lett. 2006, 8, 1593 – 1596](http://dx.doi.org/10.1021/ol060193g)  
+13\. “Synthesis and anion binding properties of N,N’-bis-pyrrol-2-yl-2,5-diamidopyrrole” J. L. Sessler, G. D. Pantoş, P. A. Gale, M. E. Light, [Org. Lett. 2006, 8, 1593 – 1596](http://dx.doi.org/10.1021/ol060193g)  
 
 12\. “Tetraazaoctaphyrin: A biimidazole-containing expanded porphyrin” J. L. Sessler, B. L. Rubin, M. Stępień, T. Köhler, G. D. Pantos, V. Roznyatovski, [Can. J. Chem. 2006, 84, 1218 – 1225](http://dx.doi.org/10.1139/V06-068)  
 
