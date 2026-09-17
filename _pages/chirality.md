@@ -34,6 +34,7 @@ The facility contains two spectrometers capable of measuring chirality in soluti
 
 ![Applied Photophysics Chirascan](/research/images/chirality/Chirascanforweb.jpg)
 
+[Booking Sheet](/research/files/Chirascan.html)
 ### Specifications
 
 - N₂-cooled 150 W Xe arc lamp (UV-vis) & 100 W tungsten/halogen lamp (NIR)
@@ -74,6 +75,7 @@ The facility contains two spectrometers capable of measuring chirality in soluti
 
 ![Jasco J-810 Spectropolarimeter](/research/images/chirality/JascoJ810forweb.jpg)
 
+[Booking Sheet](/research/files/Jasco.html)
 ### Specifications
 
 - N₂-cooled 150 W Xe arc lamp
