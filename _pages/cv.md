@@ -49,8 +49,8 @@ Service and leadership
 ======
 * Head of Organic Chemistry, Department of Chemistry, University of Bath (since 2023)
 * Admissions Tutor, Department of Chemistry, University of Bath (2017-2023)
-* Editorial Board Member, *Molecules* (since January 2016)
-* Editorial Board Member, *Supramolecular Chemistry* (since January 2014)
+* Editorial Board Member, [*Molecules*](https://www.mdpi.com/journal/molecules) (since January 2016)
+* Editorial Board Member, [*Supramolecular Chemistry*](https://www.tandfonline.com/journals/gsch20) (since January 2014)
 * Director of Studies for Natural Sciences (Physical), Pembroke College, Cambridge (2010)
 * Assistant Director of Studies for Natural Sciences (Chemistry), Pembroke College, Cambridge (2009-2010)
 
