@@ -1,7 +1,8 @@
 # Academic Pages
 GDP website
 
-[![Statcounter](https://c.statcounter.com/6616598/0/879fc591/0/)](https://statcounter.com/)
+
+
 ---
 <div align="center">
     
@@ -12,4 +13,5 @@ GDP website
 
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+[![Statcounter](https://c.statcounter.com/6616598/0/879fc591/0/)](https://statcounter.com/)
 </div>
