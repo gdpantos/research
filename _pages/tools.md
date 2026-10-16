@@ -14,6 +14,9 @@ layout: single
 
 For details, see the [Chirality](/research/chirality/) page.
 
+### UV-Vis-NIR
+- Perkin Elmer Lambda 35 (190-1100nm) dual beam, with Peltier controlled sample holder
+
 ### HPLCs
 - Agilent 1260
 - Perkin Elmer Series 200 with DAD and VWD
@@ -40,7 +43,7 @@ Additional facilities:
 - Agilent 6120 Single Quad MS (ESI and APCI)
 
 ### Flash Chromatography
-- 2 × Isco/Teledyne Combiflash Companion systems
+- Isco/Teledyne Combiflash Companion system
 
 ### Microwave Reactors
 - CEM Discover-S with Explorer 12 Hybrid
