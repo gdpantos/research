@@ -19,12 +19,22 @@ PhD student researching chirality transfer to nanoparticles and emissive polymer
 <img src="joao.png" alt="João Ribeiro" width="150" /><br>
 PhD student working on helicenes and chiral supramolecular films.
 
-## Spency Oliveira
-MRes student working on small-molecule G-quadruplex interactions.
+## Alexandra Delaney
+<img src="ally.png" alt="Ally Delaney" width="150" /><br>
+Hi, my name is Ally Delaney. My masters research project is investigating DCC. In my free time I play lacrosse and love to explore new food spots in Bath.
+
+## Daisy O'Loughlin
+<img src="daisy.png" alt="Daisy O'Loughlin" width="150" /><br>
+MChem student working on DCC. 
+
+## Henry Pickering
+<img src="henry.png" alt="Henry Pickering" width="150" /><br>
+I am a fourth-year MChem student with an interest in materials chemistry, particularly following my industrial placement at Edwards Vacuum, where I gained experience within the semiconductor industry. My master's research focuses on the development of chiroptical materials for OLED applications, investigating the effects of incorporating chiral dopants into emissive polymer thin films and their influence on circular dichroism. A key aim of the project is to synthesise a helicene-based molecular lemniscate and investigate its potential applications in chiroptical materials.
 
 # Alumni Directory
 <div style="height: 150px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
 
+- Spency Oliveira (2026 - MRes student, now: -)<br>
 - Chiara Faverio (2026 - PDRA, now: CatSci Ltd)<br>          
 - Alexandra Rudolph (2026 - Exchange
           student, now: -)<br>
@@ -52,6 +62,7 @@ MRes student working on small-molecule G-quadruplex interactions.
 - Eva Lai (2023 - summer student, now: -)<br>
 - Victoria Williams (2023 - MChem
           student, now: PhD student @ QMUL)<br>
+- Leah White (2023 - PhD student, now: @ Nature Publishing Group)<br>
 - Quilla Li (2022 - summer student, now:
          BSc student @ University of Bath -)<br>
 - Ben Menko (2022 - summer student, now:
