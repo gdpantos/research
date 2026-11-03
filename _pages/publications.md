@@ -7,9 +7,11 @@ author_profile: true
 
 
 ## 2026
-96\. “Guaiazulene-Based 2-Hydrazinylpyridine Probe (GAHP550) for Ultralow, Reversible Cu<sup>2+</sup> Detection and Molecular Logic Gate Applications” M. Kaplan, G. Kociok-Köhn, G. Dan Pantoş, Simon E. Lewis, Tony D. James, [ACS Omega 2026, asap](https://doi.org/10.1021/acsomega.6c05174)  
+97\. “Synthesis of azulene fluorophores reveals structure–property relationships” C. Faverio, J. G. Ribeiro, M. Kaplan, G. Kociok-Köhn, T. D. James, G. Dan Pantoş, S. E. Lewis,  [Org. Chem. Front. 2026, asap]([https://doi.org/10.1039/d6qo01099g])  
 
-95\. “Hyper-Rayleigh optical activity in backward scattering” H. Choi, R. Ji, G. Dan Pantoş, and Ventsislav K. Valev, [Opt. Mater. Express 2026, 16, 2989-2998](https://doi.org/10.1364/OME.599370)  
+96\. “Guaiazulene-Based 2-Hydrazinylpyridine Probe (GAHP550) for Ultralow, Reversible Cu<sup>2+</sup> Detection and Molecular Logic Gate Applications” M. Kaplan, G. Kociok-Köhn, G. D. Pantoş, S. E. Lewis, T. D. James, [ACS Omega 2026, 11, 52968–52979](https://doi.org/10.1021/acsomega.6c05174)  
+
+95\. “Hyper-Rayleigh optical activity in backward scattering” H. Choi, R. Ji, G. D. Pantoş, and V. K. Valev, [Opt. Mater. Express 2026, 16, 2989-2998](https://doi.org/10.1364/OME.599370)  
 
 94\. “Second-Harmonic Hyper-Mie Optical Activity Enables Closed-Loop Chiral Photochemistry” H. Choi, K. Whisnant, B. J. Olohan, E. Petronijevic, G. D. Pantoş, N. A. Kotov, V. K. Valev, [Adv. Mater. 2026, e735935](https://doi.org/10.1002/adma.73593)  
 
